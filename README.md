@@ -1,2 +1,15 @@
-# ue5-landscape-learning
-Practice project for learning Unreal Engine 5 landscape and open world environment creation.
+# UE5 Landscape Practice
+
+This is a practice project for learning landscape creation and open-world environment design in Unreal Engine 5.  
+It covers topics such as:  
+- Lighting and atmosphere  
+- Landscape sculpting and materials  
+- Texture tiling  
+- Foliage painting  
+- Post-processing  
+- Environment polishing 
+- Back ground creation
+- Level instances
+
+## About
+This project is part of my journey to improve Unreal Engine 5 and game development skills.  
