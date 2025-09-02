@@ -8,8 +8,8 @@ It covers topics such as:
 - Foliage painting  
 - Post-processing  
 - Environment polishing 
-- Back ground creation
+- Background creation
 - Level instances
 
 ## About
-This project is part of my journey to improve Unreal Engine 5 and game development skills.  
+This project is part of my journey to improve in Unreal Engine 5 and in my game development skills.  
