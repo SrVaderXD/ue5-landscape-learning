@@ -16,6 +16,6 @@ This project is part of my journey to improve in Unreal Engine 5 and in my game 
 
 
 ## Screenshots
-![Dual Sun 1](Screenshots/dual_sun_1.png)
-![Dual Sun 2](Screenshots/dual_sun_2.png)
-![Dual Sun 3](Screenshots/dual_sun_3.png)
+![Dual Sun 1](screenshots/dual_sun_1.png)
+![Dual Sun 2](screenshots/dual_sun_2.png)
+![Dual Sun 3](screenshots/dual_sun_3.png)
