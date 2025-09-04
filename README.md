@@ -33,7 +33,7 @@ This project is part of my journey to improve in Unreal Engine 5 and in my game 
   <summary>Click to view Painted Landscape screenshots</summary>
 
   <p align="center">
-    <img src="screenshots/painted_landscape_1.png" alt="Painted Landscape 1" width="400"/>
+    <img src="screenshots/landscape_painting_1.png" alt="Painted Landscape 1" width="400"/>
   </p>
 
 </details>
