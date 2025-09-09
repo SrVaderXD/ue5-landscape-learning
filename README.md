@@ -21,9 +21,7 @@ This project is part of my journey to improve my skills in Unreal Engine 5 and g
   <summary>Click to view Dual Sun screenshots</summary>
 
   <p align="center">
-    <img src="screenshots/dual_sun_1.png" alt="Dual Sun 1" width="400"/>
-    <img src="screenshots/dual_sun_2.png" alt="Dual Sun 2" width="400"/>
-    <img src="screenshots/dual_sun_3.png" alt="Dual Sun 3" width="400"/>
+    <img src="screenshots/dual_sun_3.png" alt="Dual Sun 3" width="600"/>
   </p>
 
 </details>
@@ -33,7 +31,7 @@ This project is part of my journey to improve my skills in Unreal Engine 5 and g
   <summary>Click to view Painted Landscape screenshot</summary>
 
   <p align="center">
-    <img src="screenshots/landscape_painting_1.png" alt="Painted Landscape 1" width="400"/>
+    <img src="screenshots/landscape_painting_1.png" alt="Painted Landscape 1" width="600"/>
   </p>
 
 </details>
@@ -43,8 +41,17 @@ This project is part of my journey to improve my skills in Unreal Engine 5 and g
   <summary>Click to view Landscape with Foliage screenshot</summary>
 
   <p align="center">
-    <img src="screenshots/foliage_painting_1.png" alt="Painted Landscape 1" width="400"/>
+    <img src="screenshots/foliage_painting_1.png" alt="Painted Landscape 1" width="600"/>
   </p>
 
+</details>
+
+### Landscape with Post Process Volume
+<details>
+  <summary>Click to view Post Process Volume screenshot</summary>
+
+  <p align="center">
+    <img src="screenshots/landscape_ppv_1.png" alt="Landscape Post Process Volume" width="600"/>
+  </p>
 </details>
 
