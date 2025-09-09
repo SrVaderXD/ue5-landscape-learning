@@ -30,7 +30,7 @@ This project is part of my journey to improve in Unreal Engine 5 and in my game 
 
 ### Painted Landscape
 <details>
-  <summary>Click to view Painted Landscape screenshots</summary>
+  <summary>Click to view Painted Landscape screenshot</summary>
 
   <p align="center">
     <img src="screenshots/landscape_painting_1.png" alt="Painted Landscape 1" width="400"/>
@@ -40,7 +40,7 @@ This project is part of my journey to improve in Unreal Engine 5 and in my game 
 
 ### Foliage Painting
 <details>
-  <summary>Click to view Landscape with Foliage screenshots</summary>
+  <summary>Click to view Landscape with Foliage screenshot</summary>
 
   <p align="center">
     <img src="screenshots/foliage_painting_1.png" alt="Painted Landscape 1" width="400"/>
