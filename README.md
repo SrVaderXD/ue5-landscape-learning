@@ -37,3 +37,14 @@ This project is part of my journey to improve in Unreal Engine 5 and in my game 
   </p>
 
 </details>
+
+### Foliage Painting
+<details>
+  <summary>Click to view Landscape with Foliage screenshots</summary>
+
+  <p align="center">
+    <img src="screenshots/foliage_painting_1.png" alt="Painted Landscape 1" width="400"/>
+  </p>
+
+</details>
+
