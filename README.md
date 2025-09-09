@@ -12,7 +12,7 @@ It covers topics such as:
 - Level instances
 
 ## About
-This project is part of my journey to improve in Unreal Engine 5 and in my game development skills.  
+This project is part of my journey to improve my skills in Unreal Engine 5 and game development.
 
 
 ## Screenshots
