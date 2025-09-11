@@ -16,9 +16,9 @@ This project is part of my journey to improve my skills in Unreal Engine 5 and g
 
 
 ## Project Progress Screenshots
-### 1. Atmosphere Screenshots
+### 1. Atmosphere with two suns
 <details>
-  <summary>Click to view Dual Sun screenshots</summary>
+  <summary>Click to view Atmosphere screenshot</summary>
 
   <p align="center">
     <img src="screenshots/dual_sun_3.png" alt="Dual Sun 3" width="600"/>
