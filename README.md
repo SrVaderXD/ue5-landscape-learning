@@ -15,8 +15,8 @@ It covers topics such as:
 This project is part of my journey to improve my skills in Unreal Engine 5 and game development.
 
 
-## Screenshots
-### Atmosphere Screenshots
+## Project Progress Screenshots
+### 1. Atmosphere Screenshots
 <details>
   <summary>Click to view Dual Sun screenshots</summary>
 
@@ -26,7 +26,7 @@ This project is part of my journey to improve my skills in Unreal Engine 5 and g
 
 </details>
 
-### Painted Landscape
+### 2. Painted Landscape
 <details>
   <summary>Click to view Painted Landscape screenshot</summary>
 
@@ -36,7 +36,7 @@ This project is part of my journey to improve my skills in Unreal Engine 5 and g
 
 </details>
 
-### Foliage Painting
+### 3. Foliage Painting
 <details>
   <summary>Click to view Landscape with Foliage screenshot</summary>
 
@@ -46,7 +46,7 @@ This project is part of my journey to improve my skills in Unreal Engine 5 and g
 
 </details>
 
-### Landscape with Post Process Volume
+### 4. Landscape with Post Process Volume
 <details>
   <summary>Click to view Post Process Volume screenshot</summary>
 
@@ -55,3 +55,12 @@ This project is part of my journey to improve my skills in Unreal Engine 5 and g
   </p>
 </details>
 
+
+### 5. Mountains new shapes and Foliage polshing ups
+<details>
+  <summary>Click to view Mountains new shapes and Foliage polishing ups screenshot</summary>
+
+  <p align="center">
+    <img src="screenshots/landscape_mountains_1.png" alt="Landscape Mountains and Foliage" width="600"/>
+  </p>
+</details>
