@@ -74,3 +74,19 @@ This project is part of my journey to improve my skills in Unreal Engine 5 and g
   </p>
 
 </details>
+
+### 7. Landscape Practice Challenges
+These screenshots capture the key results and interesting perspectives from the Landscape practice challenges, showing sculpting, painting, foliage placement, and post-processing techniques.
+<details>
+  <summary>Click to view Landscape Practice Challenge screenshots</summary>
+
+  <p align="center">
+    <img src="screenshots/challenge_0.png" alt="Screenshot 1" width="400"/>
+    <img src="screenshots/challenge_1.png" alt="Screenshot 2" width="400"/>
+    <img src="screenshots/challenge_2.png" alt="Screenshot 3" width="400"/>
+    <img src="screenshots/challenge_3.png" alt="Screenshot 4" width="400"/>
+    <img src="screenshots/challenge_4.png" alt="Screenshot 5" width="400"/>
+    <img src="screenshots/challenge_5.png" alt="Screenshot 6" width="400"/>
+  </p>
+
+</details>
